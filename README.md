@@ -7,7 +7,6 @@ This repository contains the files:
 - ``lsq_project.ipynb`` --- template Jupyter notebook for project
 - ``lsq_code.py`` --- template main code
 - ``lsq_code_test.py`` --- debugging tests for main code
-- ``mnist_train.csv`` --- MNIST training dataset
 
 To complete the project, you need to modify the code in ``lsq_project.ipynb`` and complete the stubs in ``lsq_code.py``.
 Then, you can verify your work using ``lsq_code_test.py``.
